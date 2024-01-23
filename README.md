@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zwhzzz0821
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning everything
+- 👀 I’m interested in Cpp
+- 🌱 I’m currently learning DataBase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zwh0821@gmail.com
 
