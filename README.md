@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @zwhzzz0821
-- 👀 I’m interested in Cpp
-- 🌱 I’m currently learning DataBase
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Yukim1
+- 👀 I’m interested in Cpp、DataBase、Rust、Operating System
 - 📫 How to reach me 2831474076zwh@gmail.com
 
 <!---
